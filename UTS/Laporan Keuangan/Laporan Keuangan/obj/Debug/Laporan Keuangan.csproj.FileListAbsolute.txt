@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\bin\Debug\Laporan Keuangan.exe.config
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\bin\Debug\Laporan Keuangan.exe
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\bin\Debug\Laporan Keuangan.pdb
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan Keuangan.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan_Keuangan.Form1.resources
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan_Keuangan.Properties.Resources.resources
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan Keuangan.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan Keuangan.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan Keuangan.exe
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\UTS\Laporan Keuangan\Laporan Keuangan\obj\Debug\Laporan Keuangan.pdb
